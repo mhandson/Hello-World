@@ -1,0 +1,7 @@
+report teste.
+
+data var type c.
+
+var = 'testanto'.
+
+write: var.
