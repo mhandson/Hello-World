@@ -1,7 +1,9 @@
 report teste.
 
-data var type c.
+data var type i c.
 
 var = 'testanto'.
 
 write: var.
+
+
